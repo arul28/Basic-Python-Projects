@@ -1,4 +1,4 @@
-# Basic-Pyhton-Projects
+# Basic-Python-Projects
 These are some basic projects I completed while learning python.
 
 ### Linear Regression Project
